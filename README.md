@@ -14,5 +14,23 @@ We have integrated ESP 8266 and Bluetooth module HC05, demonstrating proficiency
 
  # Files Included:
  The repository icludes the following files:
- * 
- 
+ * SolidWorks Part files
+ * SolidWorks Assembly file
+ * Arduino code
+ * Ansys file
+
+ # Technologies:
+ * SolidWorks
+ * Ansys Mechanical
+ * Arduino
+ * Blynk cloud
+
+ # Future work:
+ * In future we can enhance operational flexibility for better movement of the cart.
+ * We can add translation motion at the end effector to increase its vertical reach which will result in increasing its overall work envelope. 
+ * In future we can provide 360 degree rotational movement to the wrist by adding an additional servo motor at its wrist.
+
+# Licence:
+This project is licensed under the terms of the MIT license.
+
+
